@@ -287,7 +287,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
             "/add_photo - Ajouter une photo à votre personnage"
         )
 def main() -> None:
-    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    token = os.environ.get("6786499988:AAESOKvkf5rzg0VBshv60ZyJUjKllO5P6kI")
     if not token:
         raise ValueError("Le token du bot Telegram n'est pas défini dans les variables d'environnement.")
 
