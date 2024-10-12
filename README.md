@@ -24,8 +24,8 @@ Ce bot Telegram offre une expérience de jeu interactive basée sur l'univers de
 
 1. Clonez ce repository :
    ```
-   git clone https://github.com/votre-username/votre-repo.git
-   cd votre-repo
+   git clone https://github.com/C0LLECT10NNEURdu7/syndoriyaBot.git
+   cd syndoriyaBot
    ```
 
 2. Installez les dépendances :
@@ -60,7 +60,7 @@ python bot.py
 ## Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
-
+donnez moi des étoiles si vous êtes satisfait 
 ## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
