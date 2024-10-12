@@ -1,4 +1,4 @@
-![image]https://drive.google.com/file/d/1H33tqFUh8apCeYtVLwXk4gI-DxjpyB3e/view?usp=drivesdk
+![image](https://drive.google.com/file/d/1H33tqFUh8apCeYtVLwXk4gI-DxjpyB3e/view?usp=drivesdk)
 
 # syndoriyaBot-
 
